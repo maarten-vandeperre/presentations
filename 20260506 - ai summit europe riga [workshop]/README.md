@@ -11,6 +11,8 @@ This environment (sandbox) is always available. You just need to register
     * %pip install onnx onnxscript
  
 ## On dedicated environment (feel free to request one)
+* Provide email (will not be persisted)
+* Password: redhat123
 
 ### Parasol - AI platform, model training, deployment and integration in app
 https://catalog.demo.redhat.com/workshop/mt9gqe
