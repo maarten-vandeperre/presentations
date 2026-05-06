@@ -6,7 +6,10 @@ This environment (sandbox) is always available. You just need to register
 **Workshops:**
 * [Local ChatGPT - consuming](https://developers.redhat.com/learn/ai/get-started-consuming-gpu-hosted-large-language-models-developer-sandbox)
 * [Local number recognition - training](https://github.com/maarten-vandeperre/hello-world-NN)
-
+  * It is possible that you run into missing dependencies, in that case, add the following pip installs in blocks in the Jupyter Notebook:
+    * %pip install torch torchvision matplotlib numpy
+    * %pip install onnx onnxscript
+ 
 ## On dedicated environment (feel free to request one)
 
 ### Parasol - AI platform, model training, deployment and integration in app
