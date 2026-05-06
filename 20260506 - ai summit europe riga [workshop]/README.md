@@ -15,7 +15,8 @@ This environment (sandbox) is always available. You just need to register
 * Password: redhat123
 
 ### Parasol - AI platform, model training, deployment and integration in app
-https://catalog.demo.redhat.com/workshop/mt9gqe
+https://catalog.demo.redhat.com/workshop/mt9gqe  
+code: https://github.com/rh-aiservices-bu/parasol-insurance
 
 Explore how the fictional insurance company, Parasol, uses OpenShift AI to improve its claims processing. In this immersive experience, you will have the opportunity to deploy and work with different AI models while utilizing various features of OpenShift AI.
 
